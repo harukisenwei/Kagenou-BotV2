@@ -74,7 +74,7 @@ module.exports = {
 
     // Construct the help message
 
-    let helpMessage = "====【 Cid Kagenou Bot Commands 】====\n\n";
+    let helpMessage = "====【 Vincent Sensei Commands 】====\n\n";
 
     helpMessage += commandList.length > 0 ? commandList.join("\n") + "\n\n" : "No available commands.\n\n";
 
@@ -94,7 +94,10 @@ module.exports = {
 
     helpMessage += `Gmail: vincentmagtolis02@gmail.com\n`;
 
-    helpMessage += `Facebook: https://www.facebook.com/aljur.pogoy.2024`;
+    helpMessage += `Facebook: https://www.facebook.com/vincent.09123455\n`;
+
+    helpMessage += 'Facebook: https://www.facebook.com/vincent.magtolis.2024';
+    
 
   
 
