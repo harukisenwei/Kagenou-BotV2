@@ -86,13 +86,13 @@ module.exports = {
 
     }
 
-    helpMessage += `> Thank you for using our Cid Kagenou bot, this bot has multiple system and multiple command structures.\n`;
+    helpMessage += `> Thank you for using our AI, this AI has multiple system and multiple command structures.\n`;
 
-    helpMessage += `> This is the original version 2.0 of Cid bot, will release soon.\n`;
+    helpMessage += `> \n`;
 
     helpMessage += `> For further assistance, contact the developer,\n`;
 
-    helpMessage += `Gmail: korisawaumuzaki@gmail.com\n`;
+    helpMessage += `Gmail: vincentmagtolis02@gmail.com\n`;
 
     helpMessage += `Facebook: https://www.facebook.com/aljur.pogoy.2024`;
 
