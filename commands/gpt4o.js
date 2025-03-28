@@ -2,7 +2,7 @@ const axios = require("axios");
 
 module.exports = {
 
-    name: "gpt4o",
+    name: "ai",
 
     description: "AI-powered Gemini Vision for text and image recognition.",
 
